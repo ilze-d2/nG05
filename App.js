@@ -17,7 +17,7 @@ export default function App() {
        <Text style={styles.paragraph}>
         Member: Maris Odzulis
       </Text>
-      <Image style={styles.logo} source={require('./assets/snack-icon.png')} />
+      <Image style={styles.logo} source={require('./assets/va.png')} />
       <Text style={styles.paragraph}>
         This is my Maris Odzulis, first React Native application!
       </Text>
