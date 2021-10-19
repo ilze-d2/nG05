@@ -18,7 +18,9 @@ export default function App() {
         Maris Odzulis
       </Text>
       <Image style={styles.logo} source={require('./assets/snack-icon.png')} />
-      
+      <Text style={styles.paragraph}>
+        This is my first React Native application!
+      </Text>
     </View>
   );
 }
